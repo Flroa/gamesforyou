@@ -265,7 +265,7 @@ body {
 }
 
 .button12 {
-  background-image: url(https://cdn.discordapp.com/attachments/1070767407989268541/1071102568337518652/image.png);
+  background-image: url(https://cdn.discordapp.com/attachments/1048266266999279716/1071427774994198609/image.png);
   background-repeat: no-repeat;
   background-position: center left;
   background-color: transparent;
@@ -286,8 +286,99 @@ body {
   transform: scale(1.1);
   cursor: pointer;
 }
+
+.button13 {
+  background-image: url(https://cdn.discordapp.com/attachments/1056597640613199892/1071429389960618104/image.png);
+  background-repeat: no-repeat;
+  background-position: center left;
+  background-color: transparent;
+  border: 1px solid #333;
+  border-radius: 4px;
+  color: #F7F9FA;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px 15px;
+  text-align: center;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.button13:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.button14 {
+  background-image: url(https://cdn.discordapp.com/attachments/1048266266999279716/1071427774994198609/image.png);
+  background-repeat: no-repeat;
+  background-position: center left;
+  background-color: transparent;
+  border: 1px solid #333;
+  border-radius: 4px;
+  color: #F7F9FA;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px 15px;
+  text-align: center;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.button14:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.button15 {
+  background-image: url(https://cdn.discordapp.com/attachments/1048266266999279716/1071427774994198609/image.png);
+  background-repeat: no-repeat;
+  background-position: center left;
+  background-color: transparent;
+  border: 1px solid #333;
+  border-radius: 4px;
+  color: #F7F9FA;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px 15px;
+  text-align: center;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.button15:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
   
-  
+.button16 {
+  background-image: url(https://cdn.discordapp.com/attachments/1048266266999279716/1071427774994198609/image.png);
+  background-repeat: no-repeat;
+  background-position: center left;
+  background-color: transparent;
+  border: 1px solid #333;
+  border-radius: 4px;
+  color: #F7F9FA;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px 15px;
+  text-align: center;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.button16:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
   a {
     text-decoration: none;
     color: inherit;
